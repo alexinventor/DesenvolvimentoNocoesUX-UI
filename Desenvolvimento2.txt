@@ -1,0 +1,30 @@
+Desenvolvimento 2
+Aluno: Alex Barros
+Data: 24/04/2023.
+
+Uma empresa de delivery de alimentos utiliza a pesquisa Net Promoter Score (NPS) 
+para avaliar o nível de satisfação dos clientes em relação aos seus serviços. 
+Assim, ela pode identificar a opinião do seu público e descobrir se eles 
+recomendariam a sua marca para amigos.
+
+Essas informações são úteis para o desenvolvimento de estratégias e a fidelização 
+de clientes, porém, a maioria dos usuários não responde o questionário, o que afeta 
+o planejamento da empresa.
+
+Como você poderia identificar as causas e consequências desse problema?
+
+O tronco da árvore de problemas está definido como sendo o fato da maioria dos usuários 
+não responderem o questionário.
+Nas folhas dos galhos temos as consequências, que são: o não conhecimento, do nível de 
+satisfação dos clientes em relação aos seus serviços, da opinião do seu público e se
+recomendaria sua marca para amigos e com isso impossibilita o desenvolvimento de estratégia
+e a fidelização destes clientes.
+Podemos definir as raízes do problema como sendo a ausência de interesse em responder o 
+questionário movido pela falta de tempo, estímulo e afinidade ou até mesmo deficiência em
+provocar engajamento por parte da pesquisa. Inicialmente podemos responder a 5 porquês:
+1. Por que os clientes não reserva um tempo para responder o questionário?
+2. Por que os clientes só lembram da empresa quando necessitam do produto?
+3. Por que não há estímulo suficiente para os clientes responder o questionário?
+4. Por que não incentivar e chamar atenção para este questionário?
+5. Por que não reconhecer que a falta de interesse em responder o questionário
+pode ser um sintoma do nível de satisfação?
