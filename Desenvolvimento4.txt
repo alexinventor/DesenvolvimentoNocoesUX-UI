@@ -1,0 +1,19 @@
+Desenvolvimento 4
+Aluno: Alex Barros
+Data: 27/04/2023.
+
+Uma empresa, que atua com o desenvolvimento de softwares e apps para 
+smartphones, está criando um aplicativo para uma galeria de arte. 
+O aplicativo permite que os clientes da região possam conhecer ou 
+adquirir obras disponíveis no lugar, marcando visitas e reservando 
+produtos. No entanto, a empresa está preocupada com a interface e 
+os comandos.
+O que você recomenda para diminuir essas inseguranças e os riscos?
+
+Através de protótipos, com recursos baseados na prática, pode ser
+simulados situações semelhantes ao objetivo do produto final, 
+utilizando algoritmos que dê uma ideia do seu funcionamento.
+Pode-se encenar o usuário e o ambiente e observar o que seria 
+necessário implementar no algoritmo para obter o resultado.
+O algoritmo pode ser básico, que utilize recursos apenas para 
+demonstrar a encenação.
