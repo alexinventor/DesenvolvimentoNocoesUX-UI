@@ -1,0 +1,20 @@
+Desenvolvimento 8
+Aluno: Alex Barros
+Data: 01/05/2023.
+
+Uma empresa quer lançar um produto em um formato escalável para uma grande 
+quantidade de pessoas. Apresente uma proposta de como coletar dados com o 
+usuário considerando as seguintes premissas:
+
+- anteriormente, houve uma tentativa de lançamento deste produto, uma versão 
+beta esteve disponível no mercado durante algum tempo e foi removida;
+- o produto foi concebido sem pesquisa com o usuário.
+
+Indique o tipo de técnica que você sugere e justifique sua escolha.
+
+Como o formato é escalável, a empresa pretende um crescimento rápido sem 
+aumentar muito os custos. Eu indico a técnica de pesquisa secundária ou
+Desk Research, que se trata de dados já coletados e ordenados. Disponibilizados 
+muitas vezes de forma gratuíta, este tipo de pesquisa diminui o tempo, trabalho 
+e investimento e conta com diversas fontes de pesquisa, além de ser tratado o 
+que é essencial no projeto.
