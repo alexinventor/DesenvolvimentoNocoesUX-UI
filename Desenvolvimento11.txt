@@ -1,0 +1,18 @@
+Desenvolvimento 11
+Aluno: Alex Barros
+Data: 03/05/2023.
+
+Escolha uma ou mais tarefas que um usuário deve realizar para testar um site, 
+aplicativo ou plataforma. A partir disso, analise o comportamento dele com a 
+interface escolhida, considerando um dos elementos citados por Nielsen:
+
+- facilidade de aprendizado;
+- eficiência de uso;
+- facilidade de memorização;
+- erros;
+- satisfação.
+
+Teste de uso em um aplicativo - satisfação: Relatar se os usuários alcançam 
+finalizar tarefas de forma autônoma. Medir a atuação, sensação, expressões e 
+interpretação no tempo em que executam a tarefa. Considerar o quanto os usuários 
+apreciam o seu uso.
