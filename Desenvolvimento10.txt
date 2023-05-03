@@ -1,0 +1,18 @@
+Desenvolvimento 10
+Aluno: Alex Barros
+Data: 03/05/2023.
+
+Os projetos A, B e C estão em andamento no squad que você ingressou.
+Escolha um desses projetos, indique qual é o artefato mais adequado 
+para ele e justifique.
+A. Um produto completamente novo, sem funcionalidades e elementos de 
+design definidos;
+B. O redesign de um produto complexo, mas com funcionalidades definidas;
+C. Um produto com funcionalidades já estabelecidas, mas que necessita 
+melhorar a visualização de elementos estéticos.
+
+No projeto C, o artefato mais adequado é o mockup, pois 
+as funcionalidades já estão estabelecidas e precisa de um 
+aprimoramento na visualização. Com o mockup podemos enxergar 
+detalhes, layout, desenho, estampa, cores, é a simulação 
+fidedigna do produto final.
